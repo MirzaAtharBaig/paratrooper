@@ -1,0 +1,1 @@
+cmd_/root/lab5/Lab5pr/LED.ko := arm-linux-ld -EL -r  -T /root/root/LINUX/mini6410/linux-2.6.38/scripts/module-common.lds --build-id  -o /root/lab5/Lab5pr/LED.ko /root/lab5/Lab5pr/LED.o /root/lab5/Lab5pr/LED.mod.o

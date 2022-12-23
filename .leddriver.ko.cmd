@@ -1,0 +1,1 @@
+cmd_/root/lab5/leddriver.ko := arm-linux-ld -EL -r  -T /root/root/LINUX/mini6410/linux-2.6.38/scripts/module-common.lds --build-id  -o /root/lab5/leddriver.ko /root/lab5/leddriver.o /root/lab5/leddriver.mod.o
